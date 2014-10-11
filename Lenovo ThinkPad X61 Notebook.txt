@@ -1,0 +1,26 @@
+Lenovo ThinkPad X61 Notebook
+
+Processor Type: Intel Core 2 Duo CPU (x86 architecture)
+Clock Speed: 1.60 GHz
+Front Side Bus: 800 MHz
+Onboard L2 Cache Memory: 4 MB
+Standard Memory: 2 GB
+Memory Technology: 667MHz DDR2 SDRAM
+Hard Drive: 100GB (7200 rpm)
+Interfaces:
+	3 x USB 2.0 - 4 pin USB Type A
+	1 x display / video - VGA - 15 pin HD D-Sub (HD-15)
+	1 x modem - phone line - RJ-11
+	1 x network - Ethernet 10Base-T/100Base-TX/1000Base-T - RJ-45
+	1 x IEEE 1394 (FireWire) - 4 pin FireWire
+	1 x microphone - input - mini-phone 3.5 mm
+	1 x headphones - output - mini-phone stereo 3.5 mm
+	1 x docking / port replicator
+	1 x serial - RS-232 - 9 pin D-Sub (DB-9) (on expansion base)
+	1 x parallel - IEEE 1284 (EPP/ECP) - 25 pin D-Sub (DB-25) (on expansion base)
+	4 x USB 2.0 - 4 pin USB Type A ( on expansion base )
+	1 x display / video - VGA - 15 pin HD D-Sub (HD-15) (on expansion base)
+	1 x network - Ethernet 10Base-T/100Base-TX/1000Base-T - RJ-45 (on expansion base)
+	1 x modem - phone line - RJ-11 (on expansion base)
+	1 x microphone - input - mini-phone 3.5 mm (on expansion base)
+	1 x headphones - output - mini-phone stereo 3.5 mm (on expansion base)
